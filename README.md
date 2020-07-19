@@ -5,7 +5,7 @@ I am a learning student from China. I like open source and all interesting thing
 I want to be an interesting person and create something that can be remembered by others.
 
 - 🔭 I’m currently working on [...](https://github.com/YunYouJun), yeah, you can find them directly below.
-- 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn evetything interesting.
+- 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn everything interesting.
 - 👯 I’m looking to collaborate on [el-bot](https://github.com/ElpsyCN/el-bot).
 - 🤔 I want to make a pure front-end (more html & css than canvas) avg engine recently.
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌. and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
