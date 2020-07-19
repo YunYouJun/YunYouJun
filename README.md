@@ -8,7 +8,7 @@ I want to be an interesting person and create something that can be remembered b
 - 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn everything interesting.
 - 👯 I’m looking to collaborate on [el-bot](https://github.com/ElpsyCN/el-bot).
 - 🤔 I want to make a pure front-end (more html & css than canvas) avg engine recently.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌. and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
+- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
 - 💬 Be free to ask me about anything [here](https://github.com/YunYouJun/YunYouJun/issues).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=YunYouJun&show_icons=true&icon_color=0078e7&title_color=0078e7">
@@ -38,9 +38,6 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png"></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg"></code>
-
-
-
 
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
