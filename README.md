@@ -44,4 +44,4 @@ I want to be an interesting person and create something that can be remembered b
 
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
-If you like my projects, you can buy me a coffee at [Patreon](https://www.patreon.com/yunyoujun) or [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
+If you like my projects, you can buy me a 🍉/🍔/🍟/🍦/🥤/🍰 at [Patreon](https://www.patreon.com/yunyoujun) or [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
