@@ -34,8 +34,6 @@ I am a learning student from China. I like open source and all interesting thing
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=YunYouJun&show_icons=true&icon_color=0078e7&title_color=0078e7)
 
----
-
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
 If you like my projects, you can buy me a coffee at [Patreon](https://www.patreon.com/yunyoujun) or [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
