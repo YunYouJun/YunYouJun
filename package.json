@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "workspaces": [
+    "packages"
+  ],
+  "author": {
+    "email": "me@yunyoujun.cn",
+    "name": "YunYouJun",
+    "url": "https://www.yunyoujun.cn"
+  },
+  "scripts": {
+    "dream": "ts-node -r tsconfig-paths/register packages/dream/src/index.ts"
+  },
+  "homepage": "https://www.yunyoujun.cn/",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^9.1.1",
+    "tsconfig-paths": "^3.9.0",
+    "typescript": "^4.2.4"
+  }
+}
