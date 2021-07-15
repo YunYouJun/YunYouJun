@@ -38,8 +38,6 @@ async function start() {
   earnMoney();
   // new Promise(earnMoney);
   getMarried();
-  // test();
-  console.log("yes");
 }
 
 start();
