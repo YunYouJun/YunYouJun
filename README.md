@@ -4,7 +4,7 @@ I am a learning student from China. I like open source and all interesting thing
 
 I want to be an interesting person and create something that can be remembered by others.
 
-- 🔭 I’m currently writing some amateur [open source project](https://github.com/YunYouJun?tab=repositories) and intern at [@Tencent](https://github.com/Tencent/).
+- 🔭 I’m currently writing some amateur [open source project](https://github.com/YunYouJun?tab=repositories) and interning at [@Tencent](https://github.com/Tencent/).
 - 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn everything interesting.
 - 🤔 I want to make a pure front-end (more html & css than canvas) avg engine recently.
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
