@@ -1,12 +1,12 @@
-### Hi there, I'm [YunYouJun](https://www.yunyoujun.cn). 👋
+### Hi there, I'm [YunYouJun](https://www.yunyoujun.cn)（云游君）. 👋
 
-I am a learning student from China. I like open source and all interesting things and want to try to do it.
+I am a learning master student from China. I like open source and all interesting things and want to try to do it.
 
 I want to be an interesting person and create something that can be remembered by others.
 
-- 🔭 I’m currently writing some amateur [open source project](https://github.com/YunYouJun?tab=repositories) and interning at [@Tencent](https://github.com/Tencent/).
+- 🔭 I’m currently writing some amateur [open source project](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
 - 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn everything interesting.
-- 🤔 I want to make a pure front-end (more html & css than canvas) avg engine recently.
+- 🤔 I want to make a pure front-end (more html & css than canvas) avg engine recently. I call it [advjs](https://www.advjs.org/).
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 - 💬 Be free to ask me about anything [here](https://github.com/YunYouJun/YunYouJun/issues).
 
@@ -65,4 +65,4 @@ I want to be an interesting person and create something that can be remembered b
 
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
-If you like my projects, you can buy me a 🍉/🍔/🍟/🍦/🥤/🍰 at [Patreon](https://www.patreon.com/yunyoujun) or [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
+If you like ~~me~~ or my projects, you can buy me a 🍉 / 🍔 / 🍟 / 🍦 / 🥤 / 🍰 at [Patreon](https://www.patreon.com/yunyoujun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).

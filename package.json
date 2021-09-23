@@ -16,11 +16,11 @@
   "homepage": "https://www.yunyoujun.cn/",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^16.3.3",
+    "@types/node": "^16.9.6",
     "@yunyoujun/utils": "^0.1.4",
-    "ts-node": "^10.1.0",
-    "tsconfig-paths": "^3.10.1",
-    "typescript": "^4.3.5",
-    "husky": "^7.0.0"
+    "husky": "^7.0.0",
+    "ts-node": "^10.2.1",
+    "tsconfig-paths": "^3.11.0",
+    "typescript": "^4.4.3"
   }
 }
