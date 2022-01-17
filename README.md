@@ -1,8 +1,12 @@
 ### Hi there, I'm [YunYouJun](https://www.yunyoujun.cn)（云游君）. 👋
 
-I am a learning master student from China. I like open source and all interesting things and want to try to do it.
+I am a learning master student from China, a member of [element-plus](https://github.com/element-plus) team. I like open source and all interesting things and want to try to do it.
 
 I want to be an interesting person and create something that can be remembered by others.
+
+<img align="right" width="180" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
+
+The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, because YunYouJun is busy writing his graduation thesis, so she will introduce me to you.
 
 - 🔭 I’m currently writing some amateur [open source project](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
 - 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn everything interesting.
@@ -28,6 +32,7 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- languages:end -->
 
 #### Frameworks and Tools
@@ -44,6 +49,7 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- tools:end -->
 
 #### Interested
@@ -58,6 +64,7 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- interested:end -->
 
 > By the way, are you also curious about how to generate the list?
@@ -65,4 +72,4 @@ I want to be an interesting person and create something that can be remembered b
 
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
-If you like ~~me~~ or my projects, you can buy me a 🍉 / 🍔 / 🍟 / 🍦 / 🥤 / 🍰 at [Patreon](https://www.patreon.com/yunyoujun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
+If you like ~~xiao-yun or me~~ or my projects, you can buy me a 🍉 / 🍟 / 🍦 at [Patreon](https://www.patreon.com/yunyoujun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
