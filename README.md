@@ -2,17 +2,17 @@
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-I am a learning master student from China, core team member of [element-plus](https://github.com/element-plus).
+I am a learning master student from China, and core team member of [element-plus](https://github.com/element-plus).
 I like open source and all interesting things and want to try to do it.
 
 I want to be an interesting person and create something that can be remembered by others.
 
-The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, because I'm busy writing my graduation thesis, so she will introduce me to you.
+The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, I'm busy writing my graduation thesis, so she will introduce me to you.
 
-- 🔭 I’m currently writing some amateur [open source project](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
+- 🔭 I’m currently writing some amateur [open source projects](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
 - 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn everything interesting.
-- 🤔 I want to make a pure front-end (more html & css than canvas) avg engine recently. I call it [advjs](https://www.advjs.org/).
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
+- 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine recently. I call it [advjs](https://www.advjs.org/).
+- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
 - 💬 Be free to ask me about anything [here](https://github.com/YunYouJun/YunYouJun/issues).
 
 ---
@@ -68,10 +68,10 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <!-- interested:end -->
 
 > By the way, are you also curious about how to generate the list?
-> I write a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
+> I wrote a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
 
 ---
 
-You can find how to contact me in the sidebar. You can follow me to find something more interesting.
+You can find ways to to contact me in the sidebar. You can follow me to find more interesting things.
 
-If you like ~~xiao-yun or me~~ my projects, you can buy me a 🍉 / 🍟 / 🍦 at [Patreon](https://www.patreon.com/yunyoujun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
+If you like ~~Xiao Yun or me~~ my projects, you can buy me a 🍉 / 🍟 / 🍦 at [Patreon](https://www.patreon.com/yunyoujun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
