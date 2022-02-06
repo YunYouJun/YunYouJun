@@ -72,6 +72,6 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 
 ---
 
-You can find ways to to contact me in the sidebar. You can follow me to find more interesting things.
+You can find how to contact me in the sidebar. You can follow me to find more interesting things.
 
 If you like ~~Xiao Yun or me~~ my projects, you can buy me a 🍉 / 🍟 / 🍦 at [Patreon](https://www.patreon.com/yunyoujun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
