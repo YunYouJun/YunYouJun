@@ -7,7 +7,7 @@ I like open source and all interesting things and want to try to do it.
 
 I want to be an interesting person and create something that can be remembered by others.
 
-The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, because YunYouJun is busy writing his graduation thesis, so she will introduce me to you.
+The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, because I'm busy writing my graduation thesis, so she will introduce me to you.
 
 - 🔭 I’m currently writing some amateur [open source project](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
 - 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn everything interesting.
@@ -74,4 +74,4 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
-If you like ~~xiao-yun or me~~ or my projects, you can buy me a 🍉 / 🍟 / 🍦 at [Patreon](https://www.patreon.com/yunyoujun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
+If you like ~~xiao-yun or me~~ my projects, you can buy me a 🍉 / 🍟 / 🍦 at [Patreon](https://www.patreon.com/yunyoujun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
