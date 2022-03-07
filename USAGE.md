@@ -5,5 +5,5 @@ Just fork this repo. Modify the file `data/iconList.ts`.
 Then:
 
 ```bash
-yarn generate
+npm run generate
 ```
