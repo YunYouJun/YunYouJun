@@ -7,11 +7,11 @@ I like open source and all interesting things and want to try to do it.
 
 I want to be an interesting person and create something that can be remembered by others.
 
-The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, because YunYouJun is busy writing his graduation thesis, so she will introduce me to you.
+The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, she will speak for me in the virtual world.
 
-- 🔭 I’m currently writing some amateur [open source project](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
-- 🌱 I’m currently learning Computer Graphics & Games & Drawing, and want to learn everything interesting.
-- 🤔 I want to make a pure front-end (more html & css than canvas) avg engine recently. I call it [advjs](https://www.advjs.org/).
+- 🔭 I’m currently writing some amateur [open source projects](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
+- 🌱 I’m currently learning Computer Graphics & FE & Drawing, and want to learn everything interesting.
+- 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. I call it [advjs](https://www.advjs.org/).
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
 - 💬 Be free to ask me about anything [here](https://github.com/YunYouJun/YunYouJun/issues).
 
@@ -35,6 +35,7 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- languages:end -->
 
 #### Frameworks and Tools
@@ -51,6 +52,7 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- tools:end -->
 
 #### Interested
@@ -65,13 +67,20 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- interested:end -->
 
 > By the way, are you also curious about how to generate the list?
-> I write a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
+> I wrote a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
 
 ---
 
 You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
-If you like ~~xiao-yun or me~~ or my projects, you can buy me a 🍉 / 🍟 / 🍦 at [Patreon](https://www.patreon.com/yunyoujun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
+If you like ~~Xiao Yun or me~~ or my projects, you can buy me a 🍉 / 🍟 / 🍦 at [GitHub Sponsors](https://github.com/sponsors/YunYouJun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">
+    <img src='https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
+  </a>
+</p>
