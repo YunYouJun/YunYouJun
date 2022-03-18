@@ -9,18 +9,17 @@
     "url": "https://www.yunyoujun.cn"
   },
   "scripts": {
-    "dream": "ts-node -r tsconfig-paths/register packages/dream/src/index.ts",
-    "generate": "ts-node scripts/generate.ts",
+    "dream": "esno packages/dream/src/index.ts",
+    "generate": "esno scripts/generate.ts",
     "prepare": "husky install"
   },
   "homepage": "https://www.yunyoujun.cn/",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^17.0.9",
+    "@types/node": "^17.0.21",
     "@yunyoujun/utils": "^0.1.4",
+    "esno": "^0.14.1",
     "husky": "^7.0.4",
-    "ts-node": "^10.4.0",
-    "tsconfig-paths": "^3.12.0",
-    "typescript": "^4.5.4"
+    "typescript": "^4.6.2"
   }
 }

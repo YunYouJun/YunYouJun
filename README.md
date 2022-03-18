@@ -19,7 +19,13 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 
 #### Languages
 
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=YunYouJun&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<!-- github-stats:start -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=YunYouJun&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- github-stats:end -->
 
 <!-- languages:start -->
 <!-- prettier-ignore-start -->
@@ -35,6 +41,7 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png" alt="yaml" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- languages:end -->
 
 #### Frameworks and Tools
@@ -51,6 +58,7 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- tools:end -->
 
 #### Interested
@@ -65,6 +73,7 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg" alt="AE" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- interested:end -->
 
 > By the way, are you also curious about how to generate the list?
