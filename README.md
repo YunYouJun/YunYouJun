@@ -9,7 +9,7 @@ I want to be an interesting person and create something that can be remembered b
 
 The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, she will speak for me in the virtual world.
 
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/YunYouJun?tab=repositories), interned at [@Tencent](https://github.com/Tencent/) + [@Alipay](https://github.com/alipay/).
+- 🔭 I’m currently writing some amateur [open source projects](https://github.com/YunYouJun?tab=repositories).
 - 🌱 I’m currently learning Computer Graphics & FE & Drawing, and want to learn everything interesting.
 - 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. I call it [advjs](https://www.advjs.org/).
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
