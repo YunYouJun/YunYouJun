@@ -1,4 +1,4 @@
-import { logger } from "./logger";
+import consola from "consola";
 
 export interface CustomIcon {
   /**
@@ -52,6 +52,6 @@ export function generateGithubStatsImg(params: Partial<GithubStatsParams> = {}) 
   const url = 'https://github-readme-stats.vercel.app/api'
   const searchParams = new URLSearchParams(params as Record<string, string>)
   const imgTag = `<img align="right" width="450" src="${url}?${searchParams.toString()}"/>`
-  logger.info(imgTag)
+  consola.info(imgTag)
   return imgTag
 }

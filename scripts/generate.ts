@@ -1,4 +1,4 @@
-import { logger } from "./logger";
+import consola from "consola";
 
 import fs from "fs";
 import { markdown } from "@yunyoujun/utils";
@@ -15,7 +15,7 @@ iconsList.forEach((item) => {
     generateIconList(item.icons)
   );
 });
-logger.success(`Generate ${readmeFile} successfully!`);
+consola.success(`Generate ${readmeFile} successfully!`);
 
 readmeContent = markdown.injectContentBetweenTags(
   'github-stats',
@@ -28,7 +28,7 @@ readmeContent = markdown.injectContentBetweenTags(
     include_all_commits: true
   }),
 )
-logger.success(`Generate github-stats successfully!`);
+consola.success(`Generate github-stats successfully!`);
 
 if (readmeContent)
   fs.writeFileSync(readmeFile, readmeContent);
