@@ -4,7 +4,7 @@ English | [中文](./README.zh-CN.md)
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-I am a front-end developer from China, currently working at Tencent [WeChat]((https://weixin.qq.com/)), mainly engaged in red packet cover and various basic development work.
+I am a front-end developer from China, currently working at Tencent [WeChat](https://weixin.qq.com/), mainly engaged in red packet cover and various basic development work.
 I am also one of the maintainers of [Element Plus](https://github.com/element-plus).
 I also worked for [Alipay](https://github.com/alipay), engaged in interactive projects and basic interaction technology development such as Ant Farm/Forest/Asian Games.
 
