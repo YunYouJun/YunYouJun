@@ -4,14 +4,7 @@ English | [中文](./README.zh-CN.md)
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
-我是一名来自中国的前端开发工程师，目前就职于腾讯[微信](https://weixin.qq.com/)，主要从事红包封面及各类基础开发工作。
-也是 [Element Plus](https://github.com/element-plus) 的维护者之一。
-我也曾为[支付宝](https://github.com/alipay)工作，从事蚂蚁庄园/森林等互动项目和基础交互技术开发。
-
-我喜欢开源和所有有趣的事物，并想要尝试用前端技术实现它们。
-我希望自己可以成为一个有趣的人，并创造出可以成为他人回忆的事物。
-
-I am a front-end developer from China, currently working at Tencent WeChat, mainly engaged in red packet cover and various basic development work.
+I am a front-end developer from China, currently working at Tencent [WeChat]((https://weixin.qq.com/)), mainly engaged in red packet cover and various basic development work.
 I am also one of the maintainers of [Element Plus](https://github.com/element-plus).
 I also worked for [Alipay](https://github.com/alipay), engaged in interactive projects and basic interaction technology development such as Ant Farm/Forest/Asian Games.
 
