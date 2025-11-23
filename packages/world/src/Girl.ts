@@ -1,11 +1,12 @@
-import Person from "./Person";
+import { consola } from 'consola'
+import Person from './Person'
 
 export default class Girl extends Person {
   /**
    * Kiss
    */
   kiss(someone: Person) {
-    console.log(`「${this.name}」 亲了下 「${someone.name}」。`);
+    consola.info(`「${this.name}」 亲了下 「${someone.name}」。`)
   }
 
   /**
@@ -13,6 +14,6 @@ export default class Girl extends Person {
    * @param someone 某人
    */
   fallInLoveWith(someone: Person) {
-    console.log(`「${this.name}」 与 「${someone.name}」 坠入爱河。`);
+    consola.info(`「${this.name}」 与 「${someone.name}」 坠入爱河。`)
   }
 }

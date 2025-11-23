@@ -1,13 +1,13 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
     "target": "ESNext",
+    "baseUrl": ".",
     "moduleResolution": "node",
-    "esModuleInterop": true,
-    "resolveJsonModule": true,
     "paths": {
       "@yunyoujun/*": ["packages/*/src"]
-    }
+    },
+    "resolveJsonModule": true,
+    "esModuleInterop": true
   },
   "include": ["packages/**/*.ts"]
 }

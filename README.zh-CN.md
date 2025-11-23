@@ -1,6 +1,6 @@
-### Hi there, I'm [YunYouJun](https://www.yunyoujun.cn)（云游君）. 👋
+### 见字如面，我是[YunYouJun](https://www.yunyoujun.cn)（云游君）. 👋
 
-English | [中文](./README.zh-CN.md)
+[English](./README.md) | 中文
 
 <img align="right" width="200" src="https://cdn.jsdelivr.net/gh/YunYouJun/yun/images/yun-alpha-compressed.png">
 
@@ -11,20 +11,13 @@ English | [中文](./README.zh-CN.md)
 我喜欢开源和所有有趣的事物，并想要尝试用前端技术实现它们。
 我希望自己可以成为一个有趣的人，并创造出可以成为他人回忆的事物。
 
-I am a front-end developer from China, currently working at Tencent WeChat, mainly engaged in red packet cover and various basic development work.
-I am also one of the maintainers of [Element Plus](https://github.com/element-plus).
-I also worked for [Alipay](https://github.com/alipay), engaged in interactive projects and basic interaction technology development such as Ant Farm/Forest/Asian Games.
+右侧的是虚拟人物——[小云](<(https://github.com/YunYouJun/yun)>)，她将在虚拟世界中替我发声。
 
-I like open source and all interesting things, and want to try to implement them with FE technology.
-I want to be an interesting person and create something that can be remembered by others.
-
-The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）, she will speak for me in the virtual world.
-
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/YunYouJun?tab=repositories) - [list](https://www.yunyoujun.cn/projects/).
-  - For example: [valaxy](https://valaxy.site), a static blog framework; [advjs](https://www.advjs.org/), a front-end ADV engine; and some small tools like [cook](https://cook.yunyoujun.cn) or fun projects like [air-conditioner](https://ac.yunyoujun.cn).
-- 🌱 I am also learning and trying various new knowledge, AI/painting/CG, but I will more often trigger it from a front-end perspective.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything publicly [here](https://github.com/YunYouJun/YunYouJun/issues).
+- 🔭 我当前在写一些业余的[开源项目](https://www.yunyoujun.cn/projects)｜[Repositories](https://github.com/YunYouJun?tab=repositories)。
+  - 例如：[valaxy](https://valaxy.site)，静态博客框架；[advjs](https://www.advjs.org/)，前端 ADV 引擎；以及类似 [cook](https://cook.yunyoujun.cn) 的小工具或 [air-conditioner](https://ac.yunyoujun.cn) 之类的整活项目。
+- 🌱 我也在学习和尝试各类新的知识，AI/绘画/CG，但我更多会以前端视角触发。
+- ❤️ 我喜欢吃 🍉，养 🐓，打 🏓，🛌 睡懒觉和看 📺 [ACGN](https://zh.wikipedia.org/wiki/ACGN)。
+- 💬 欢迎在[这里](https://github.com/YunYouJun/YunYouJun/issues)问我任何可以公开的问题。
 
 ---
 
@@ -84,14 +77,18 @@ The one on the right is [Xiao Yun](https://github.com/YunYouJun/yun)（小云）
 <!-- prettier-ignore-end -->
 <!-- interested:end -->
 
-> By the way, are you also curious about how to generate the list?
-> I wrote a script to generate it automatically. You can see [YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun).
+> 顺带一提，你是否也好奇这些列表是如何生成的？
+> 我写了一个脚本来自动生成它们，你可以看这里：[YunYouJun/YunYouJun](https://github.com/YunYouJun/YunYouJun/tree/master/scripts).
 
 ---
 
-You can find how to contact me in the sidebar. You can follow me to find something more interesting.
+你可以在侧边栏找到联系我的方式，关注我以发现更多有趣的事物。
 
 If you like ~~Xiao Yun or me~~ or my projects, you can buy me a 🍉 / 🍟 / 🍦 at [GitHub Sponsors](https://github.com/sponsors/YunYouJun) or 💰 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn/).
+
+如果你喜欢~~小云或我~~或者我的项目，你可以考虑在[GitHub Sponsors](https://github.com/sponsors/YunYouJun)赞助我。
+我会用来购买一些云服务和小云周边，也可以和我进行一对一交流。
+[这里](https://www.yunyoujun.cn/sponsors/)是关于赞助的一些信息。
 
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg">

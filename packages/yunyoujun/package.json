@@ -1,3 +1,11 @@
 {
-  "name": "yunyoujun"
+  "name": "yunyoujun",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YunYouJun/YunYouJun"
+  },
+  "keywords": [
+    "yunyoujun"
+  ]
 }

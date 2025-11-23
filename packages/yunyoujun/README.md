@@ -1,3 +1,3 @@
 # YunYouJun
 
-A npm package as resume.
+A npm package for me.

@@ -1,18 +1,18 @@
-import { logger } from "./logger";
+import consola from 'consola'
 
 export interface CustomIcon {
   /**
    * 名称
    */
-  name: string;
+  name: string
   /**
    * 图标链接
    */
-  url: string;
+  url: string
   /**
    * 类型
    */
-  type?: string;
+  type?: string
 }
 
 /**
@@ -21,22 +21,22 @@ export interface CustomIcon {
 export function generateIconList(icons: (string | CustomIcon)[]) {
   return icons
     .map((icon) => {
-      let imgElement = `<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/${icon}/${icon}.png" alt="${icon}" />`;
-      if (typeof icon !== "string") {
-        imgElement = `<img height="20" src="${icon.url}" alt="${icon.name}" />`;
+      let imgElement = `<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/${icon}/${icon}.png" alt="${icon}" />`
+      if (typeof icon !== 'string') {
+        imgElement = `<img height="20" src="${icon.url}" alt="${icon.name}" />`
       }
-      return `<code>${imgElement}</code>`;
+      return `<code>${imgElement}</code>`
     })
-    .join("\n");
+    .join('\n')
 }
 
 export interface GithubStatsParams extends Record<string, string | boolean> {
-  username: string,
+  username: string
   /**
    * 'true' | 'false'
    */
-  show_icons: boolean,
-  icon_color: string,
+  show_icons: boolean
+  icon_color: string
   title_color: string
   /**
    * Count total commits instead of just the current year commits
@@ -46,12 +46,12 @@ export interface GithubStatsParams extends Record<string, string | boolean> {
 
 /**
  * https://github.com/anuraghazra/github-readme-stats#common-options
- * @param params 
+ * @param params
  */
 export function generateGithubStatsImg(params: Partial<GithubStatsParams> = {}) {
   const url = 'https://github-readme-stats.vercel.app/api'
   const searchParams = new URLSearchParams(params as Record<string, string>)
   const imgTag = `<img align="right" width="450" src="${url}?${searchParams.toString()}"/>`
-  logger.info(imgTag)
+  consola.info(imgTag)
   return imgTag
 }
