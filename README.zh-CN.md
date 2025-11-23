@@ -15,7 +15,7 @@
 
 - 🔭 我当前在写一些业余的[开源项目](https://www.yunyoujun.cn/projects)｜[Repositories](https://github.com/YunYouJun?tab=repositories)。
   - 例如：[valaxy](https://valaxy.site)，静态博客框架；[advjs](https://www.advjs.org/)，前端 ADV 引擎；以及类似 [cook](https://cook.yunyoujun.cn) 的小工具或 [air-conditioner](https://ac.yunyoujun.cn) 之类的整活项目。
-- 🌱 我也在学习和尝试各类新的知识，AI/绘画/CG，但我更多会以前端视角触发。
+- 🌱 我也在学习和尝试各类新的知识，AI/绘画/CG，但我更多会从前端视角出发。
 - ❤️ 我喜欢吃 🍉，养 🐓，打 🏓，🛌 睡懒觉和看 📺 [ACGN](https://zh.wikipedia.org/wiki/ACGN)。
 - 💬 欢迎在[这里](https://github.com/YunYouJun/YunYouJun/issues)问我任何可以公开的问题。
 
